@@ -1,0 +1,17 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "source": "index.html",
+  "description": "A simple news website project continuum transfunctioner!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
